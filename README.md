@@ -1,4 +1,4 @@
-# group_storytelling
+# Group Storytelling
 Group Storytelling Assignment Starting Point
 
 Today you are going to write a short story and to do so, you are going to need the help of several of your classmates. We will break you up into small groups and together you will chose someone kick off the activity. This team member will fork this repository (often called a repo for short) <Insert repo path> from the Bitmaker Labs account to their own account and then add the rest of their group members as collaborators. This first team member will then add a sentence to the story in the text document titled shortstory.txt using their favourite text editor and commit their changes back to the repo. Following, all other team members will take turns cloning the repo and adding an additional sentence to the evolving story before pushing their changes back up. By the end of this assignment you will be more familiar with the act of cloning a repo, pulling changes submitted by your fellow team members and submitting changes of your own by pushing them up to a shared code repository.
